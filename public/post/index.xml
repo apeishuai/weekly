@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>weekly</title>
-    <link>/</link>
-    <description>Recent content on weekly</description>
+    <title>Posts on weekly</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on weekly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 23:37:07 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week1</title>
       <link>/post/week1/</link>
