@@ -1,0 +1,165 @@
+article, .single article {
+
+    border: $default-border-size solid $secondary-color-light;
+    border-radius: 0px;
+    padding: $regular-padding;
+    margin-bottom: $regular-margin;
+    background-color: $article-background-color;
+
+    &.featured {
+        background-color: $featured-article-background-color;
+        border-color: $primary-accent-color;
+    }
+    
+    div.article-meta {
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: stretch;
+        align-content: normal;
+
+        color: $secondary-color;
+
+        margin-bottom: $regular-margin;
+
+        ul.article-info {
+
+            font-family: $primary-font;
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+
+            li {
+                display: inline-block;
+                margin-right: 5px;
+
+                time {
+
+                }
+
+                span {
+                    margin-right: 5px;
+                    font-size: $regular-font-size;
+                    vertical-align: bottom;
+                    color: $secondary-color-light;
+                }
+            }
+        }
+
+        ul.article-tags {
+
+            font-family: $secondary-font;
+
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+
+            li {
+                display: inline-block;
+                margin-right: $small-margin;
+
+                a {
+                    color: $primary-accent-color;
+                    text-decoration: none;
+
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+
+    div.article-header {
+
+        /* on single template not wrapped with <a> */
+
+        h1.article-title {
+            font-size: $super-big-font-size;
+            font-family: $secondary-font;
+            margin: 0px 0px $medium-margin 0px;
+        }
+
+        a {
+
+            text-decoration: none;
+            color: $primary-color;
+
+            &:hover {
+                text-decoration: underline;
+            }
+
+            h1.article-title {
+                font-size: $super-big-font-size;
+                font-family: $secondary-font;
+                margin: 0px 0px $medium-margin 0px;
+            }
+
+        }
+
+        h2.article-excerpt {
+            color: $secondary-color;
+            font-size: $big-font-size;
+            font-weight: lighter;
+            margin: 0px;
+        }
+    }
+
+    div.article-content {
+        
+        font-size: $regular-font-size;
+        word-break: break-word;
+
+        h1, h2, h3, h4, h5, h6 {
+            text-decoration: underline;
+            font-weight: lighter;
+        }
+
+        h1 { font-size: $super-big-font-size !important; }
+        h2 { font-size: $big-font-size !important; }
+        h3 { font-size: $medium-font-size !important; }
+        h4 { font-size: $regular-font-size !important; }
+        h5 { font-size: $regular-font-size !important; }
+        h6 { font-size: $regular-font-size !important; }
+
+        a {
+            color: $primary-accent-color;     
+            text-decoration: underline;
+            
+            &:hover {
+                background-color: rgba(#c33dd3, 0.2);
+            }
+        }
+
+        p { }
+
+        em {
+            color: $secondary-color;
+            background-color: rgba($primary-color, $alpha: 0.1);
+            margin-right: 3px;
+        }
+
+        img {
+            width: 100%;
+            border: 1px solid $image-border-color;
+        }
+
+        blockquote {
+            margin: 0;
+            border-left: 5px solid $secondary-accent-color;
+            padding-left: 5px;
+            font-style: italic;
+            padding: 10px;
+            margin-bottom: $regular-margin;
+
+            p {
+                margin: 0px;
+            }
+        }
+
+
+
+    }
+}

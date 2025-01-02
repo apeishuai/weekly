@@ -1,0 +1,45 @@
+@import 'variables';
+
+/* code embed from Github Gist */
+
+.gist {
+
+    a {
+        color: inherit;
+    }
+}
+
+/* inline blocks of code */
+
+code {
+    background-color: rgba($secondary-accent-color, 0.20);
+}
+
+pre {
+    code {
+        background-color: initial;
+    }
+}
+
+/* enrich blocks of code */
+
+div.highlight {
+
+    * {
+        word-wrap: break-word !important;
+        text-wrap: wrap !important;
+
+        white-space: -webkit-pre-wrap;
+        white-space: pre-wrap;
+
+        font-size: $regular-font-size - 1 !important;
+    }
+
+    > pre {
+        padding: 5px;
+
+        code {
+            background-color: initial;
+        }
+    }
+}

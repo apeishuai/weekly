@@ -1,0 +1,18 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'weekly'
+theme = 'tophat'
+
+
+[params]
+  subtitle = ""
+  description = ""
+  author = "shuai"
+
+  main = "post"
+  featured = true
+  
+  show_date_on_article = true
+  show_reading_time_on_article = true
+  show_words_count_on_article = true
+  show_tags_on_article = true 
