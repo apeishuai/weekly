@@ -6,14 +6,21 @@
     <description>Recent content in Posts on weekly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 23:37:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 06:49:30 +0800</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week2</title>
+      <link>/post/week2/</link>
+      <pubDate>Mon, 06 Jan 2025 06:49:30 +0800</pubDate>
+      <guid>/post/week2/</guid>
+      <description>十个问答搞定机械面试02：什么是GD&amp;amp;T Rule #2无关原则&#xA;美标1、2原则默认管控，拿到形状更好、尺寸更好的零件(一切以实际需求触发)&#xA;Python中使用可变数据类型当默认参数的坑&#xA;尽量不要用可变函数类型作为函数的参数，若使用，先初始化&#xA;2024-11-22金融市场随感&#xA;恒生科技指数代表中国股市成长风格&#xA;红利资产代表中国股市价值风格 30年国债收益率，代表投资者对经济的看法。中国30年国债收益率跟日债出现倒挂，为美债的1/2(面临资金出逃压力)</description>
+    </item>
     <item>
       <title>Week1</title>
       <link>/post/week1/</link>
       <pubDate>Wed, 01 Jan 2025 23:37:07 +0800</pubDate>
       <guid>/post/week1/</guid>
-      <description>article 这里是白银越野赛全部21位逝者的故事&#xA;test </description>
+      <description>article 这里是白银越野赛全部21位逝者的故事&#xA;2024 年个人总结&#xA;斑马童书&#xA;年底还有一个大的变化，就是我开始负责斑马童书。&#xA;AI 的三叉路口：专业模型和个人模型&#xA;2024 年大模型真正开始落地，大多数科技工作者在工作中至少使用一款大模型提升效率，很多国民级应用和手机厂商也接入了大模型。大模型开始往专业（Professional）模型和个人（Personal）模型两个方向分化。&#xA;2025 年，对于技术难度不高的软件，程序员的角色将逐步转型为架构师 + 产品经理 + 项目经理，只需将软件开发项目分解为一小时以内颗粒度，描述清晰、结果可自动验证的任务，交给 AI 完成开发，然后人工验收结果和迭代需求&#xA;总体来说，目前 AI 应用尚处于 “iPhone 1” 时代，模型能力、应用生态、用户习惯都在快速进化中。所谓 “AI 一天，人间一年”，即使是 AI 专家，也很难跟上所有最新的科研进展。大模型的时代才刚刚开始，预测未来的最好方式就是持续学习、探索、利用 AI 能力，发现自己真正的兴趣和追求，进而创造未来。</description>
     </item>
   </channel>
 </rss>
