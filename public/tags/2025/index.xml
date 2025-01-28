@@ -6,8 +6,22 @@
     <description>Recent content in 2025 on weekly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 23:37:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 13:47:30 +0800</lastBuildDate>
     <atom:link href="/tags/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week5</title>
+      <link>/post/week5/</link>
+      <pubDate>Tue, 28 Jan 2025 13:47:30 +0800</pubDate>
+      <guid>/post/week5/</guid>
+      <description>医保咋用最省钱？医改影响有多大&#xA;可以把医保理解成一种众筹行为 爸妈都有医保了，还需要买保险吗&#xA;医疗险：百万医疗险+防癌医疗险+惠民保 重疾险 年金寿险&#xA;医保“家庭共济”和“亲情账户”有何区别？如何办理？指南来了&#xA;简单来说，医保“家庭共济”就是指职工医保个人账户里的钱，可以给家庭成员共济使用。也就是通过创建家庭共济账户，把本人医保账户里的余额授权共享给配偶、子女和父母使用。个人账户如何全家共享？有什么要求？&#xA;· 首先家庭共济账户的创建者，必须是职工医保的参保人；&#xA;· 其次共济成员的范围仅限于创建者本人的父母、配偶和子女，并且他们也都参加了基本医疗保险。&#xA;共济的是个人账户的钱，非医保卡本身&#xA;你可能不知道，相比于MetaTrader 4/5，为什么专业交易员更喜欢cTrader平台？&#xA;外汇交易&#xA;wise实体visa卡申请攻略</description>
+    </item>
+    <item>
+      <title>Week2</title>
+      <link>/post/week2/</link>
+      <pubDate>Mon, 06 Jan 2025 06:49:30 +0800</pubDate>
+      <guid>/post/week2/</guid>
+      <description>十个问答搞定机械面试02：什么是GD&amp;amp;T Rule #2无关原则&#xA;美标1、2原则默认管控，拿到形状更好、尺寸更好的零件(一切以实际需求触发)&#xA;Python中使用可变数据类型当默认参数的坑&#xA;尽量不要用可变函数类型作为函数的参数，若使用，先初始化&#xA;2024-11-22金融市场随感&#xA;恒生科技指数代表中国股市成长风格&#xA;红利资产代表中国股市价值风格 30年国债收益率，代表投资者对经济的看法。中国30年国债收益率跟日债出现倒挂，为美债的1/2(面临资金出逃压力)&#xA;对比下两人对知识挖掘的深度，这个也是导致技术差距越来越大的原因&#xA;就是要你懂DNS&amp;ndash;一文搞懂域名解析相关问题&#xA;DNS 解析失败问题追踪&#xA;当时起码困扰了有一年半载的时间了，但是在某一个时间节点上我们实在是无法忍受了，所以决定亲自攻克这个问题&#xA;于是我们就顺着这个错误提示进行谷歌，然后就找到了这篇文章&#xA;其中里面一个网友的下面描述解开了我们多年的疑惑：&#xA;新版huggingface部署wewe-rss教程&#xA;emacs lsp-bridge&#xA;emacs lsp bridge, for proceed the speed of programming&#xA;lsp-bridge会开一个服务器，自动扫描项目下面所有文件的字段，以.git或.dir-locals.el文件为根目录，从而对整个项目目录提供补全&#xA;为了提升编程效率，一方面要依赖aider+各种模型增加开发迭代速度，另一方面通过自动补全减少原型开发时间&#xA;尝试了三天，放弃了，直接用vscode的lsp</description>
+    </item>
     <item>
       <title>Week1</title>
       <link>/post/week1/</link>
