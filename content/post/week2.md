@@ -1,7 +1,7 @@
 ---
 title: "Week2"
 date: 2025-01-06T06:49:30+08:00
-draft: true
+draft: false
 excerpt: ""
 featured: false
 tags: [2025]
