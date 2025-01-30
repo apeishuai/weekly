@@ -20,3 +20,7 @@
 {{ partial "open-graph.html" . }}
 
 {{ partial "favicon.html" . }}
+
+{{ if .Params.katex }}
+  {{ partial "katex.html" . }}
+{{ end }}
