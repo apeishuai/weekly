@@ -7,6 +7,7 @@ featured: false
 tags: [保险,invest,2025]
 ---
 
+# 医保
 [医保咋用最省钱？医改影响有多大](https://www.xiaoyuzhoufm.com/episode/6744750411045e78e5d12892)\
 可以把医保理解成一种众筹行为
 ![](/img/Snipaste_2025-01-28_13-53-58.png)
@@ -66,9 +67,20 @@ tags: [保险,invest,2025]
 ![](/img/Snipaste_2025-01-29_12-57-13.png)
 ![](/img/Snipaste_2025-01-29_12-56-21.png)
 
+[医保药品查询入口](https://wx.nhsa.gov.cn/#/pages/NRDL/index/index)\
+[市政府关于印发苏州市基本医疗保险和生育保险市级统筹基本政策和待遇标准调整方案的通知](https://www.suzhou.gov.cn/szsrmzf/zfwj/202003/9abcb56e82aa44ab9302e402ab0ee20f.shtml)\
+[人社信息搜索](https://m12333.cn/search/suzhou.aspx)\
+[职工、居民医保的区别](https://m12333.cn/qa/pmdwf.html)\
+[惠民保入口]()
+
+
+# 投资
 [你可能不知道，相比于MetaTrader 4/5，为什么专业交易员更喜欢cTrader平台？](https://buysellok.org/%e4%bd%a0%e5%8f%af%e8%83%bd%e4%b8%8d%e7%9f%a5%e9%81%93%ef%bc%8c%e7%9b%b8%e6%af%94%e4%ba%8emetatrader-4-5%ef%bc%8c%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%93%e4%b8%9a%e4%ba%a4%e6%98%93%e5%91%98%e6%9b%b4/)\
 外汇交易
 
 [wise实体visa卡申请攻略](https://buysellok.org/wise%e5%ae%9e%e4%bd%93visa%e5%8d%a1%e7%94%b3%e8%af%b7%e6%94%bb%e7%95%a5/)
+
+[对抗精神内耗？把他们都当成npc吧！【法学博士杂谈02】](https://www.cnblogs.com/apachecn/p/17442712.html)
+
 
 
